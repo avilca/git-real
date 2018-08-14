@@ -27,5 +27,9 @@ Curso GIT
 		git status
 
 		git log 
-		git add --all  --> agrega todas modificacione de los archivos y si hubieran files nuevos tambien los agrega
-
+		git add --all   --> agrega todas modificacione de los archivos y si hubieran files nuevos tambien los agrega
+		git add *.txt   --> agrega todos los archivos con extension .txt del directorio git
+		git add docs/   --> agrega todo lo que esta dentro del dicectorio docs
+		git add "*.txt" --> agrega los txt del proyecto
+		git reset HEAD nombre_de_archivo  --> Saca el archivo de la zona de espera
+        git checkout -- LICENCIA.txt    --> regresa el archivo a su forma original 
