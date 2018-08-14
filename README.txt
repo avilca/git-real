@@ -27,4 +27,5 @@ Curso GIT
 		git status
 
 		git log 
+		git add --all  --> agrega todas modificacione de los archivos y si hubieran files nuevos tambien los agrega
 
