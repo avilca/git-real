@@ -12,14 +12,14 @@ Curso GIT
 	cd curso ---> ingresamos al directorio creado
 
 3)CONVERTIMOS EL DIRECTORIO "CURSO" en un REPOSITORIO GIT:
-	git init
+	git init --> inicia el directorio git
 
 
 
 4)COMANDOS:
 
-	git add   --- anadir archivo
-	git commint -m"mensaje personalizado"
+	git add   ---> anadir archivo
+	git commit -m"mensaje personalizado" --> guarda modificacion con mensaje
 
 
 	4.1)COMANDOS DE apoyo:
