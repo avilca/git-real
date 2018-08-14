@@ -1,5 +1,6 @@
 Curso GIT
-comandos
+
+COMANDOS:
 
 git init
 
@@ -7,8 +8,9 @@ git add   --- anadir archivo
 git commint -m"mensaje personalizado"
 
 
-apoyo:
+COMANDOS DE apoyo:
 
 git status
 
 git log 
+
